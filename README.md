@@ -1,3 +1,5 @@
+[Ladder Logic](https://fernando-lozano.github.io/bibleRead/)
+
 # About
 Determine how long it will take to read sections of the Bible.
 
