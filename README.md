@@ -3,4 +3,4 @@
 # About
 Determine how long it will take to read sections of the Bible.
 
-bible info from https://holyword.church/miscellaneous-resources/how-many-words-in-each-book-of-the-bible/
+Bible info from https://holyword.church/miscellaneous-resources/how-many-words-in-each-book-of-the-bible/
